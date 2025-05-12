@@ -1,9 +1,3 @@
-# Computer Vision Projects in Python
-
-This repository contains two distinct yet educational computer vision projects implemented using Python and Jupyter Notebooks: one for **Automatic Number Plate Detection** and another for **Brain Tumor Classification** using deep learning. Both projects demonstrate practical applications of image processing and AI in real-world scenarios.
-
----
-
 ## 🚗 Number Plate Detection
 
 The Number Plate Detection project presents a classic computer vision pipeline to detect and localize vehicle license plates from static images using OpenCV. The system preprocesses images through grayscale conversion, noise removal, edge detection, and contour analysis to isolate regions that match license plate characteristics. This approach is efficient, does not require heavy datasets, and can be extended to real-time video streams and integrated with OCR for full ANPR (Automatic Number Plate Recognition) systems. Ideal use cases include smart parking, traffic monitoring, and vehicle access control systems.
